@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Awrad Tarig</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🌱 I’m currently learning **Android Studio,Dart**
 
 - 💬 Ask me about **C++,C#,OOP**
 
